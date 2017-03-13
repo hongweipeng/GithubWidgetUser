@@ -27,5 +27,4 @@ $('.some_class').github_user_widget('github上的用户名');
 
 
   [1]: http://bh-lay.com/labs/github-widget-user
-  [2]: https://www.hongweipeng.com/usr/uploads/2015/12/2369678560.zip
-  [3]: https://www.hongweipeng.com/usr/uploads/2015/12/3818505502.png
+  [3]: http://www.hongweipeng.com/usr/uploads/2015/12/3818505502.png
